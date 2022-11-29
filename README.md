@@ -1,2 +1,2 @@
 # chhatrapati
-chhatrapati shop
+ shop
